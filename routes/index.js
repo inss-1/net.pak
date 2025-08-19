@@ -66,7 +66,7 @@ router.get('/', (req, res) => {
 <center>
 <img src="./files/hs.png">
 </center>
-<!-- <object style="height:950px; width:1920px;" data="./hs.png"></object> -->
+<!-- <object style="height:950px; width:1920px;" data="./files/hs.png"></object> -->
  
 </body>
         </html>
